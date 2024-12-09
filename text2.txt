@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+
+text2
+Test feature tạo branch mới và merge
+=======
+text 2
+>>>>>>> Crolls
